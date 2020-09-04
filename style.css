@@ -7,17 +7,18 @@
 body {
   background-image: linear-gradient(60deg, #47ed6e, #29cdff);
   color: white;
-  font-family: "Balsamiq Sans", cursive;
+  font-family: "Kalam", cursive;
   min-height: 100vh;
 }
 
 header {
   font-size: 3vh;
+  margin-top: 2.5rem;
 }
 
 header,
 form {
-  min-height: 15vh;
+  min-height: 13vh;
   display: flex;
   justify-content: center;
   align-items: center;
